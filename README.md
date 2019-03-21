@@ -7,7 +7,7 @@
 
 
 ## ABSTRACT : 
-          Electronic-Know Your Customer(E-kyc) processing is basically a time consuming and excruciating process because each employees personal details have to be checked manually, cross checked, send for approval and so on. The entire process take time and is prone to errors due to multiple levels of human scrutiny. Generating the KYC for every employees can be handed over to a RPA solution which can do this activity automatically and without even any manual intervention during the process.The system is planned to be built using UI path studio and triggered using UiPath Robot.
+          <li>Electronic-Know Your Customer(E-kyc) processing is basically a time consuming and excruciating process because each employees personal details have to be checked manually, cross checked, send for approval and so on. The entire process take time and is prone to errors due to multiple levels of human scrutiny. Generating the KYC for every employees can be handed over to a RPA solution which can do this activity automatically and without even any manual intervention during the process.The system is planned to be built using UI path studio and triggered using UiPath Robot</li>
  
 ## MODULE SPLITUP
 <li>Module 1 : Collecting Candidates details(Menakaa S U)</li>

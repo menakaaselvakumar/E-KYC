@@ -6,8 +6,8 @@
               3.Mohammed Thansir A(711715104040)
  
 ## GITHUB LINKS:
-1.Menakaa()
-2.Mohammed Thansir
+1.Menakaa(https://github.com/menakaaselvakumar/E-KYC)
+2.Mohammed Thansir()
 3.Suwetha()
 
 

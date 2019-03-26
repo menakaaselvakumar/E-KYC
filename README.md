@@ -1,9 +1,14 @@
-## Project Name : E-KYC(Electronic- know Your Customer)
-## Team Number : 20  
+## PROJECT NAME : E-KYC(Electronic- know Your Customer)
+## TEAM NUMBER : 20  
 ## TEAM MEMBERS: 
               1.MENAKAA S U(711715104039)
               2.Suwetha B(711715104063)
               3.Mohammed Thansir A(711715104040)
+ 
+## GITHUB LINKS:
+1.Menakaa()
+2.Mohammed Thansir
+3.Suwetha()
 
 
 ## ABSTRACT 
@@ -21,6 +26,10 @@ Proposed System is planned to implement using the RPA tools. The business file(i
 ## ADVANTAGES OF PROPOSED SYSTEM
   •	Its takes less time to complete the whole process.
   •	No manual intervention is needed.
+  
+## FUTURE ENHANCEMENTS 	 
+ 	This project is focused on robot that performs the fetching and filling  operations by constraints that are defined by human and sending mails to that particular candidates. The future enhancements can be done by using the Uipath activities. The bot should get the notifications, if mails are not send to the particular  candidates which are mentioned in the input files.
+
                
              
         

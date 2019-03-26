@@ -7,8 +7,8 @@
  
 ## GITHUB LINKS:
 1.Menakaa(https://github.com/menakaaselvakumar/E-KYC)
-2.Mohammed Thansir()
-3.Suwetha()
+2.Mohammed Thansir(https://github.com/mohammedthansir/E-KYC)
+3.Suwetha(https://github.com/suwethab/E-KYC)
 
 
 ## ABSTRACT 

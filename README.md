@@ -6,9 +6,9 @@
               3.Mohammed Thansir A(711715104040)
  
 ## GITHUB LINKS:
-1.Menakaa(https://github.com/menakaaselvakumar/E-KYC)
-2.Mohammed Thansir(https://github.com/mohammedthansir/E-KYC)
-3.Suwetha(https://github.com/suwethab/E-KYC)
+<li>1.Menakaa(https://github.com/menakaaselvakumar/E-KYC)</li>
+<li>2.Mohammed Thansir(https://github.com/mohammedthansir/E-KYC)</li>
+<li>3.Suwetha(https://github.com/suwethab/E-KYC)</li>
 
 
 ## ABSTRACT 
@@ -28,7 +28,7 @@ Proposed System is planned to implement using the RPA tools. The business file(i
   •	No manual intervention is needed.
   
 ## FUTURE ENHANCEMENTS 	 
- 	This project is focused on robot that performs the fetching and filling  operations by constraints that are defined by human and sending mails to that particular candidates. The future enhancements can be done by using the Uipath activities. The bot should get the notifications, if mails are not send to the particular  candidates which are mentioned in the input files.
+This project is focused on robot that performs the fetching and filling  operations by constraints that are defined by human and sending mails to that particular candidates. The future enhancements can be done by using the Uipath activities. The bot should get the notifications, if mails are not send to the particular  candidates which are mentioned in the input files.
 
                
              
